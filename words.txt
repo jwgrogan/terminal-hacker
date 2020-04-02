@@ -1,0 +1,24 @@
+easy - library:
+books
+aisle
+shelf
+password
+font
+borrow
+
+
+
+medium - police station:
+prisoner
+handcuffs
+holster
+uniform
+arrest
+
+
+hard - nasa:
+starfield
+telescope
+environment
+exploration
+astronauts
